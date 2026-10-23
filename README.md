@@ -26,3 +26,6 @@ URL = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDev
 This dataset is a filtered and modified version of the [Laptop Price Prediction Using Specifications](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction) dataset, available on [Kaggle](https://www.kaggle.com/).
 
 The original dataset is distributed under the [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/dbcl-10.txt).
+
+### Note:
+Laptop_Price_Prediction_using_specifications_modified is a filtered and modified version of the [Laptop Price Prediction Using Specifications](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction) dataset, whereas Generative_AI_for_Data_Insights is the output using [google colab research](https://colab.research.google.com/).
