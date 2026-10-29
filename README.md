@@ -1,6 +1,6 @@
 # Hands-on Project: Generative AI for Data Insights 
 Use efficient prompts on a Generative AI platform to create a Python script for generating insights on a data set available in a CSV file.
-Source: [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedLti/sF3aF/hands-on-lab-generative-ai-for-data-insights)
+Source: [Learn from Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedLti/sF3aF/hands-on-lab-generative-ai-for-data-insights)
 
 ## Objectives
 
